@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NitBuk
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning B.sc in CS.
+- 🌱 I’m currently learning B.sc in CS at HUJI.
 - 💞️ I’m looking to collaborate on Programming skill tests.
 - 📫 How to reach me: send me a massage here.
 
