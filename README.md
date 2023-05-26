@@ -1,6 +1,6 @@
-# 👋 Hello! I'm NitBuk
+# 👋 Hello! I'm Nitzan
 
-🎯 I'm a Computer Science student at the Hebrew University of Jerusalem, passionate about solving complex problems with programming.
+🎯 I'm a Computer Science student at the Hebrew University of Jerusalem. Also, I'm passionate about solving complex problems with programming.
 
 🌱 Currently, I'm deepening my knowledge in various programming languages and computer science concepts as part of my B.Sc. program.
 
