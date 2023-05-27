@@ -2,7 +2,7 @@
 
 🎯 I'm a Computer Science student at the Hebrew University of Jerusalem. Also, I'm passionate about solving complex problems with programming.
 
-🌱 Currently, I'm deepening my knowledge in various programming languages and computer science concepts as part of my B.Sc. program.
+🌱 Currently, I'm deepening my knowledge in various programming languages and computer science concepts.
 
 💡 I’m open to collaborating on projects that challenge me and help me grow as a programmer. I particularly enjoy working on tasks that test my programming skills and knowledge.
 
